@@ -22,3 +22,6 @@ A simple web application that allows users to search for a city to get the curre
 * CSS
 * HTML
 * JS
+
+# Website
+ https://tanatswas.github.io/Week-6-challenge/
